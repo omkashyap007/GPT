@@ -12,3 +12,4 @@ wheels/
 trained_model/plain_english/
 trained_model/spm.model
 trained_model/spm.vocab
+trained_model/plain_english.txt
