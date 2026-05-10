@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+**/migrations/
+trained_model/plain_english/
+trained_model/spm.model
+trained_model/spm.vocab
